@@ -1,6 +1,8 @@
 # Megan's "Art" Gallery
 Welcome to my exhibit! Join me in navigating my photo gallery as I attempt to make sense of whatever's in there. Believe me, I'm just as confused as you are.
  
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
 ### Exhibit A
 ![img1](https://user-images.githubusercontent.com/114502873/194469369-859c7404-3e82-47cd-b6d2-b778fd788aba.jpg)
 A fairly normal start. A photo taken at a cafe mere minutes after I left the orthodontist, just after acquiring braces and being thoroughly lectured on edibles henceforth prohibited (with strong emphasis on sugary foods). As can be seen I have very high regard for such things, being the esteemed individual that I am. The subject of this photo however is an intricate culinary phenomenon. To this day, its flavor is unidentifiable. Be it, matcha, green apple, honeydew, or some other "green" flavor, no one knows. A true enigma of its kind to all connoisseurs alike.
@@ -33,3 +35,16 @@ My pet fish whom I cherish very dearly. It's funny because my dad originally bou
 
 A very useful contraption. I too feel the inexplicable need to wipe my tears using toilet paper earrings. *Seriously, I find the most random things on Twitter...*
 
+### Exhibit H
+![img8](https://user-images.githubusercontent.com/114502873/194475091-c2680f9e-1e0b-4b0f-8316-d75823b9ecc0.jpg)
+A photo taken in Ms. Machado's room shortly after taking the AP Statistics exam. I honestly have no idea what's going on here.
+
+### Exhibit I
+![img9](https://user-images.githubusercontent.com/114502873/194475483-3eef3b35-a4ac-42ef-af96-e71c9b30c0be.jpg)
+First time seeing a limousine in person. For a second I almost thought I was seeing things. It just looks so interesting...
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+And that concludes the exhibit! I applaud you for having reached this far in all its unhinged glory. Cheers, and I'll see you next time for part 2!
