@@ -1,6 +1,7 @@
 # Megan's "Art" Gallery
 Welcome to my exhibit! Join me in navigating my photo gallery as I attempt to make sense of whatever's in there. Believe me, I'm just as confused as you are.
  
+ #### Psst, before we get started. Check out this link: https://www.instagram.com/catbowl_png/?hl=en. My friends and I are starting a small art business so we would appreciate any kind of support. Thanks!
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 ### Exhibit A
