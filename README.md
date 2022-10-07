@@ -18,7 +18,7 @@ Now just who could these mysterious strangers be? A photo taken on an especially
 ### Exhibit D
 ![img4](https://user-images.githubusercontent.com/114502873/194472518-2492aa1c-7c7d-4f58-8484-0b1798cb3607.JPG)
 Kirby, what happened to you!?                                                                                                                                             
-Kirby: You mean I've been turned into a marketable drink? NOOOOOOOOO!!
+**Kirby**: You mean I've been turned into a marketable drink? NOOOOOOOOO!!
 
 Jokes aside, it was pretty good. It tasted like liquid candy which was nice, but it was a bit too sweet for my tastes.
 
